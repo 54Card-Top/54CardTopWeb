@@ -35,6 +35,6 @@ export const zh = defineNavbarConfig([
   {
     text: "🚀使用",
     // icon: "rocket",
-    link: "https://app.hns.ink",
+    link: "https://app.54card.top",
   }, 
 ]);

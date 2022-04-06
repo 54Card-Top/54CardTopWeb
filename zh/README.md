@@ -7,7 +7,7 @@ heroText: 54Card Top
 tagline: 主题套装扑克牌盲盒。
 actions:
   - text: 🚀使用
-    link: https://app.hns.ink
+    link: https://app.54card.top
 
   - text: 💡指南
     link: /zh/guide/

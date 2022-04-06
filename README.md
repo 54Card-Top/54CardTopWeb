@@ -7,7 +7,7 @@ heroText: 54Card Top
 tagline: Theme poker sets.
 actions:
   - text: 🚀Launch
-    link: https://app.hns.ink
+    link: https://app.54card.top
 
   - text: 💡Guide
     link: /guide/

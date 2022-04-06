@@ -3,11 +3,11 @@ import * as navbar from "./navbar";
 import * as sidebar from "./sidebar";
 
 export default defineThemeConfig({
-  hostname: "https://hns.ink",
+  hostname: "https://54card.top",
 
   author: {
     name: "54Card Top",
-    url: "https://hns.ink",
+    url: "https://54card.top",
   },
 
   iconPrefix: "fa-solid fa-",
